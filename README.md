@@ -10,7 +10,7 @@ images. To overcome these, the project adopts CNNs, periodic model retraining, s
 architecture, diversified training datasets (especially Indian pests), and advanced deep learning models 
 to revolutionize pest management and promote sustainable agriculture.
 
-### *Requirements*
+## *Requirements*
 
 Download Pest Dataset from the link: https://drive.google.com/drive/folders/1qZAu-Mt7-X5I7Oqv5dJpHQk-NP5L80co?usp=drive_link
 
